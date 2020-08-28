@@ -4,32 +4,39 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "blue"
+        "letter": "G",
+        "color": "blue",
+        "rank": "7",
+        "ascii": "71"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
-          [
+          
             [25.774, -80.19],
         [18.466, -66.118],
         [32.321, -64.757],
         [25.774, -80.19]
-          ]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "color": "red"
+        "letter": "o",
+        "color": "red",
+        "rank": "15",
+        "ascii": "111"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
-          [25.774, -50.32],
+          [
+            [25.774, -50.32],
         [18.466, -36.118],
         [32.321, -34.757],
         [25.774, -50.32]
+          ]
         ]
       }
     }
