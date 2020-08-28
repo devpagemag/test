@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "blue"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [25.774, -80.19],
+        [18.466, -66.118],
+        [32.321, -64.757],
+        [25.774, -80.19]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "letter": "o",
+        "color": "red"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [25.774, -50.32],
+        [18.466, -36.118],
+        [32.321, -34.757],
+        [25.774, -50.32]
+        ]
+      }
+    }
+  ]
+}
