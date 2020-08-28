@@ -21,7 +21,6 @@
     {
       "type": "Feature",
       "properties": {
-        "letter": "o",
         "color": "red"
       },
       "geometry": {
